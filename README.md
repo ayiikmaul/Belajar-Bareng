@@ -4,7 +4,6 @@
         <meta carset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
-        <title> MATERI </title>
         <h1>MATERI BAHASA INDONESIA KELAS 12</h1><br>
         <p>Materi Bahasa Indonesia Kelas XII Semester 1 Kurikulum 2013 terdiri dari bab 3 saja yaitu  bab 1 mengenai surat lamaran pekerjaan, bab 2 teks cerita sejarah, dan  bab 3 teks editorial. Pada semester 2 kurikulum 2013 ada 3 bab yang terdiri dari bab 4 adalah novel, bab 5 artikel, dan bab 6 kritik dan esai.</p>
         <p><h1>1.Rangkuman Bahasa Indonesia Kelas 12 Bab 1</h1></p>
